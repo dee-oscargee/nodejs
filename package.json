@@ -1,0 +1,15 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "uche",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
